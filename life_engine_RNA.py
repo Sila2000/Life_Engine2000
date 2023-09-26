@@ -1,4 +1,4 @@
-#Traanscription
+#Transcription
 
 in_pair_nucleotide1 = []
 in_pair_nucleotide2 = []
